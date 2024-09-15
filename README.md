@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateotomeho&show_icons=true&locale=en&layout=compact" alt="mateotomeho" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateotomeho&" alt="mateotomeho" /></p>
+
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mateotomeho&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
